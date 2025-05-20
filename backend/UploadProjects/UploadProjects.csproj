@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>UploadProjects</AssemblyName>
+    <RootNamespace>UploadProjects</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Search.Documents" Version="11.6.0" />
+    <PackageReference Include="Azure.Core" Version="1.44.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AIServices\AIServices.csproj" />
+  </ItemGroup>
+
+</Project>

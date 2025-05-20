@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "OPENAI_ENDPOINT": "https://#######.openai.azure.com/",
+        "OPENAI_API_KEY": "#####",
+        "OPENAI_EMBEDDING_DEPLOYMENT": "text-embedding-##-##",
+        "AZURE_SEARCH_ENDPOINT": "https://#####.search.windows.net/",
+        "AZURE_SEARCH_INDEX": "#####",
+        "AZURE_SEARCH_API_KEY": "######"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chat.Bot.Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7233",
+      "launchBrowser": false
+    }
+  }
+}

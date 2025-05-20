@@ -1,0 +1,114 @@
+[
+    {
+        "id": "p1",
+        "title": "AI for Safety Document Automation",
+        "description": "Built a web tool that uses AI to scan, analyze, and summarize safety PDF reports—reducing manual review time by 50%.",
+        "tech_stack": [
+            "React",
+            "JavaScript",
+            "C# (.NET)",
+            "Azure Functions",
+            "Azure OpenAI",
+            "Azure Document Intelligence",
+            "Vector DB",
+            "Azure AI Search"
+        ],
+        "date_range": "Jan 2025 – Jan 2025",
+        "metadata": "Role: AI Developer, Impact: Reduced manual review time by 50%",
+        "raw_text": "Built a web tool that uses AI to scan, analyze, and summarize safety PDF reports. Developed features for extracting text with Azure OCR, storing data in a vector database, and generating AI-powered safety reports. Built an easy-to-use React app for viewing, editing, and chatting with AI about safety documents. Designed AI prompts and workflows that split up report generation for better accuracy and speed. Worked across front-end and back-end to deliver a smooth, user-friendly solution for sales teams.",
+        "content_vector": null
+    },
+    {
+        "id": "p2",
+        "title": "Regulatory Compliance Chatbot (Azure GenAI POC)",
+        "description": "Helped build an AI-powered chatbot that lets users search and cross-check claims and regulatory documents, cutting compliance review time by 50%.",
+        "tech_stack": [
+            "React",
+            "Tailwind",
+            "Redux",
+            "C# (.NET)",
+            "TypeScript",
+            "Azure AI Search",
+            "Azure OpenAI",
+            "Node.js",
+            "Pub/Sub Architecture"
+        ],
+        "date_range": "Oct 2024 – Dec 2024",
+        "metadata": "Role: AI Developer, Impact: Cut compliance review time by 50%",
+        "raw_text": "Helped build an AI-powered chatbot that lets users search and cross-check claims and regulatory documents. Built backend pipelines to process and index hundreds of documents for fast, accurate AI search. Developed chatbot features for real-time Q&A, document cross-referencing, and automatic detection of outdated info. Added advanced search (metadata, keyword, fuzzy) and streaming responses for a smooth user experience. Worked with a cross-functional team to deliver a user-friendly React frontend and robust Azure backend.",
+        "content_vector": null
+    },
+    {
+        "id": "p3",
+        "title": "AI Contract Review Proof of Concept",
+        "description": "Built a Microsoft Word plugin that uses AI to suggest contract edits and highlight key issues, speeding up legal review by 40%.",
+        "tech_stack": [
+            "Angular",
+            "TypeScript",
+            "C#",
+            "Node.js",
+            "Azure Functions",
+            "Microsoft Office Add-in APIs",
+            "OpenAI"
+        ],
+        "date_range": "Sep 2024 – Oct 2024",
+        "metadata": "Role: AI Developer, Impact: Sped up legal review by 40%",
+        "raw_text": "Built a Microsoft Word plugin that uses AI to suggest contract edits and highlight key issues. Developed an Angular dashboard for users to manage contracts and review AI feedback in one place. Integrated Azure Functions and OpenAI to deliver real-time redlining suggestions inside Word. Created clear architecture diagrams and technical docs for sales demos and client presentations. Helped prepare and deliver successful client demos on a tight deadline.",
+        "content_vector": null
+    },
+    {
+        "id": "p4",
+        "title": "AI Book Search & Recommendation Platform",
+        "description": "Built an AI-powered search tool that let marketing teams find and recommend books by topic, event, or person, increasing campaign targeting speed by 40%.",
+        "tech_stack": [
+            "Node.js",
+            "TypeScript",
+            "Azure Functions",
+            "GPT-4",
+            "Azure AI Search",
+            "React",
+            "REST APIs"
+        ],
+        "date_range": "Apr 2024 – May 2024",
+        "metadata": "Role: AI Developer, Impact: Increased campaign targeting speed by 40%",
+        "raw_text": "Built an AI-powered search tool that let marketing teams find and recommend books by topic, event, or person. Designed and coded the backend pipeline to process and vectorize book data, handling thousands of pages with custom scripts and Azure AI Search. Automated the extraction of key book details like genre, chapter, year, and summary to make searches more accurate and useful. Combined AI (GPT-4) and metadata filters to return smart book recommendations in real time. Worked closely with the frontend team to deliver clear APIs and smooth search results for users.",
+        "content_vector": null
+    },
+    {
+        "id": "p5",
+        "title": "Nurse Staffing Platform",
+        "description": "Helped build a web app for hospitals to post shifts and for nurses to search and book jobs nationwide.",
+        "tech_stack": [
+            "React",
+            "Redux",
+            "Redux-Saga",
+            "TypeScript",
+            "Material-UI",
+            "REST APIs",
+            "Agile",
+            "Azure DevOps"
+        ],
+        "date_range": "Dec 2022 – Jan 2024",
+        "metadata": "Role: Application Developer, Impact: Improved nurse job search speed by 25%",
+        "raw_text": "Helped build a web app for hospitals to post shifts and for nurses to search and book jobs nationwide. Improved nurse job search speed by 25% by developing advanced filters and easy booking features in React. Fixed major bugs and improved how job listings display, making the platform more reliable. Used Redux and Redux-Saga for better state management, and wrote automated tests to catch issues early. Worked with teams around the world using Agile and Azure DevOps.",
+        "content_vector": null
+    },
+    {
+        "id": "p6",
+        "title": "Credentialing Portal Project",
+        "description": "Built a React-based admin portal that automated credential checks for nurses, covering state and hospital rules for hundreds of hospitals.",
+        "tech_stack": [
+            "React",
+            "Redux",
+            "TypeScript",
+            "Material-UI",
+            "Automated Testing",
+            "RESTful APIs",
+            "Agile"
+        ],
+        "date_range": "Nov 2022 – Jun 2023",
+        "metadata": "Role: Application Developer, Impact: Improved user efficiency by 30%",
+        "raw_text": "Built a React-based admin portal that automated credential checks for nurses, covering state and hospital rules for hundreds of hospitals. Improved user efficiency by 30% by streamlining how staff manage and verify credentials. Set up real-time dashboards and forms using React, Redux, and Material-UI to track credential requests and rule compliance. Led efforts to add automated regression tests, reducing bugs and making updates safer. Worked closely with developers, testers, and business teams in an agile setting.",
+        "content_vector": null
+    }
+]
